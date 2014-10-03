@@ -1,0 +1,42 @@
+<style>
+    body{
+        margin-left: 100px;
+        margin-top: 50px;
+    }
+
+    .box{
+      border:2px solid black;
+      margin-right:20px;
+      float:center;
+    }
+    
+    #box-1 {
+      width:670px;
+      height:370px;
+
+    }
+    #box-2 {
+      width:670px;
+    }
+
+    button, .button {
+      display: inline-block;
+      *display: inline;
+      line-height: normal;
+      font-weight: 600;
+      text-align: center;
+      cursor: pointer;
+      text-decoration: none;
+      margin: 5px 0;
+      outline: none;
+      color: white;
+      vertical-align: middle;
+      position: relative;
+      background-color: #2e323e;
+      border: 1px solid #23262f;
+      padding: 0.25rem 0.8125rem;
+      font-size: 0.875rem;
+      padding: 0.25rem 0.8125rem;
+      font-size: 0.875rem;
+    }
+</style>
